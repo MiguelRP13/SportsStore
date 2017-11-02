@@ -1,0 +1,10 @@
+C:\ProgramacaoInternet\SportsStore\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.deps.json
+C:\ProgramacaoInternet\SportsStore\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.runtimeconfig.json
+C:\ProgramacaoInternet\SportsStore\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.runtimeconfig.dev.json
+C:\ProgramacaoInternet\SportsStore\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.dll
+C:\ProgramacaoInternet\SportsStore\SportsStore\bin\Debug\netcoreapp1.1\SportsStore.pdb
+C:\ProgramacaoInternet\SportsStore\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.csprojResolveAssemblyReference.cache
+C:\ProgramacaoInternet\SportsStore\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.csproj.CoreCompileInputs.cache
+C:\ProgramacaoInternet\SportsStore\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.AssemblyInfo.cs
+C:\ProgramacaoInternet\SportsStore\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.dll
+C:\ProgramacaoInternet\SportsStore\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.pdb
