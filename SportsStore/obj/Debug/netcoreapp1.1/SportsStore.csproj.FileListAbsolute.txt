@@ -17,3 +17,4 @@ C:\Users\1011607\Documents\Programacao_Internet\SportsStore\SportsStore\obj\Debu
 C:\Users\1011607\Documents\Programacao_Internet\SportsStore\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.AssemblyInfo.cs
 C:\Users\1011607\Documents\Programacao_Internet\SportsStore\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.dll
 C:\Users\1011607\Documents\Programacao_Internet\SportsStore\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.pdb
+C:\Users\1011607\Documents\Programacao_Internet\SportsStore\SportsStore\obj\Debug\netcoreapp1.1\SportsStore.csprojResolveAssemblyReference.cache
