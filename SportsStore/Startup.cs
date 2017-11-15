@@ -35,7 +35,8 @@ namespace SportsStore
             services.AddTransient<IProductRepository, EFProductRepository>();
 
             services.AddDbContext<ApplicationDbContext>(options =>
-                options.UseSqlServer(Configuration.GetConnectionString("ConnectionStringSportsStore"))
+                options.UseSqlServer(Configuration.GetConnectionString("ConnectionStringSportsStore"))
+
                 );
         }
 
@@ -61,7 +62,7 @@ namespace SportsStore
             {
                 routes.MapRoute(
                     name: "default",
-                    template: "{controller=Home}/{action=Index}/{id?}");
+                    template: "{controller=Products}/{action=List}/{id?}");
             });
         }
     }

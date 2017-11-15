@@ -1,0 +1,15 @@
+C:\Users\1011607\Documents\Programacao_Internet\SportsStore\SportsStore.tests\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\1011607\Documents\Programacao_Internet\SportsStore\SportsStore.tests\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Users\1011607\Documents\Programacao_Internet\SportsStore\SportsStore.tests\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Users\1011607\Documents\Programacao_Internet\SportsStore\SportsStore.tests\bin\Debug\netcoreapp1.1\SportsStore.Tests.deps.json
+C:\Users\1011607\Documents\Programacao_Internet\SportsStore\SportsStore.tests\bin\Debug\netcoreapp1.1\SportsStore.Tests.runtimeconfig.json
+C:\Users\1011607\Documents\Programacao_Internet\SportsStore\SportsStore.tests\bin\Debug\netcoreapp1.1\SportsStore.Tests.runtimeconfig.dev.json
+C:\Users\1011607\Documents\Programacao_Internet\SportsStore\SportsStore.tests\bin\Debug\netcoreapp1.1\SportsStore.Tests.dll
+C:\Users\1011607\Documents\Programacao_Internet\SportsStore\SportsStore.tests\bin\Debug\netcoreapp1.1\SportsStore.Tests.pdb
+C:\Users\1011607\Documents\Programacao_Internet\SportsStore\SportsStore.tests\bin\Debug\netcoreapp1.1\SportsStore.dll
+C:\Users\1011607\Documents\Programacao_Internet\SportsStore\SportsStore.tests\bin\Debug\netcoreapp1.1\SportsStore.pdb
+C:\Users\1011607\Documents\Programacao_Internet\SportsStore\SportsStore.tests\obj\Debug\netcoreapp1.1\SportsStore.Tests.csprojResolveAssemblyReference.cache
+C:\Users\1011607\Documents\Programacao_Internet\SportsStore\SportsStore.tests\obj\Debug\netcoreapp1.1\SportsStore.Tests.csproj.CoreCompileInputs.cache
+C:\Users\1011607\Documents\Programacao_Internet\SportsStore\SportsStore.tests\obj\Debug\netcoreapp1.1\SportsStore.Tests.AssemblyInfo.cs
+C:\Users\1011607\Documents\Programacao_Internet\SportsStore\SportsStore.tests\obj\Debug\netcoreapp1.1\SportsStore.Tests.dll
+C:\Users\1011607\Documents\Programacao_Internet\SportsStore\SportsStore.tests\obj\Debug\netcoreapp1.1\SportsStore.Tests.pdb
