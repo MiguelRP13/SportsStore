@@ -16,6 +16,8 @@ namespace SportsStore.Infrastructure
     {
         private IUrlHelperFactory urlHelperFactory;
 
+        public static int MaxLinksBeforeAndAfterCurrentPage = 7;
+
         public PagingLinksTagHelper(IUrlHelperFactory urlHelperFactory)
         {
             this.urlHelperFactory = urlHelperFactory;
@@ -34,13 +36,20 @@ namespace SportsStore.Infrastructure
             IUrlHelper urlHelper = urlHelperFactory.GetUrlHelper(ViewContext);
 
             TagBuilder result = new TagBuilder("div");
-            for (int i = 1; i <= PageModel.TotalPages; i++)
+
+
+            int initial = PageModel.CurrentPage - MaxLinksBeforeAndAfterCurrentPage;
+            if (initial < 1) initial = 1;
+            int final = PageModel.CurrentPage + MaxLinksBeforeAndAfterCurrentPage;
+            if (final > PageModel.TotalPages) final = PageModel.TotalPages;
+
+            for (int p = initial; p <= final; p++)
             {
-                TagBuilder tag = new TagBuilder("a");
-                tag.Attributes["href"] = urlHelper.Action(PageAction,
-                   new { page = i });
-                tag.InnerHtml.Append(i.ToString());
-                result.InnerHtml.AppendHtml(tag);
+                TagBuilder pageLink = new TagBuilder("a");
+                pageLink.Attributes["href"] = urlHelper.Action(PageAction,
+                   new { page = p });
+                pageLink.InnerHtml.Append(p.ToString());
+                result.InnerHtml.AppendHtml(pageLink);
             }
             output.Content.AppendHtml(result.InnerHtml);
         }

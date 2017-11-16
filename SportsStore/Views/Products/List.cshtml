@@ -1,11 +1,11 @@
-@model IEnumerable<Product>
+@model ProductsListViewModel
 @{
     ViewData["Title"] = "List";
 }
 
 <h2>Product List</h2>
 
-@foreach(Product p in Model)
+@foreach(Product p in Model.Products)
 {
     <div>
         <h3>@p.Name</h3>
