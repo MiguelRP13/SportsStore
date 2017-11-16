@@ -65,6 +65,7 @@ namespace SportsStore
                     template: "{controller=Products}/{action=List}/{id?}");
                     //template: "{controller=Products}/{action=List}/{id?}");
             });
+            SeedData.EnsurePopulated(app.ApplicationServices);
         }
     }
 }
