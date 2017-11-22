@@ -12011,7 +12011,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\1011607\\.nuget\\packages\\": {}
+    "C:\\Users\\migue\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
@@ -12019,14 +12019,14 @@
       "hideWarningsAndErrors": true
     },
     "restore": {
-      "projectUniqueName": "C:\\Users\\1011607\\Documents\\Programacao_Internet\\SportsStore\\SportsStore.tests\\SportsStore.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\migue\\OneDrive\\Documentos\\EI\\Sports\\SportsStore\\SportsStore.tests\\SportsStore.Tests.csproj",
       "projectName": "SportsStore.Tests",
-      "projectPath": "C:\\Users\\1011607\\Documents\\Programacao_Internet\\SportsStore\\SportsStore.tests\\SportsStore.Tests.csproj",
-      "packagesPath": "C:\\Users\\1011607\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\1011607\\Documents\\Programacao_Internet\\SportsStore\\SportsStore.tests\\obj\\",
+      "projectPath": "C:\\Users\\migue\\OneDrive\\Documentos\\EI\\Sports\\SportsStore\\SportsStore.tests\\SportsStore.Tests.csproj",
+      "packagesPath": "C:\\Users\\migue\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\migue\\OneDrive\\Documentos\\EI\\Sports\\SportsStore\\SportsStore.tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\1011607\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\migue\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -12039,8 +12039,8 @@
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "C:\\Users\\1011607\\Documents\\Programacao_Internet\\SportsStore\\SportsStore\\SportsStore.csproj": {
-              "projectPath": "C:\\Users\\1011607\\Documents\\Programacao_Internet\\SportsStore\\SportsStore\\SportsStore.csproj"
+            "C:\\Users\\migue\\OneDrive\\Documentos\\EI\\Sports\\SportsStore\\SportsStore\\SportsStore.csproj": {
+              "projectPath": "C:\\Users\\migue\\OneDrive\\Documentos\\EI\\Sports\\SportsStore\\SportsStore\\SportsStore.csproj"
             }
           }
         }
